@@ -186,7 +186,9 @@ footer .redes a:hover {
   }
 
   .product-card img {
-    max-height: 180px;
+    width: 100%;
+    height: auto;
+    object-fit: contain;
     border-radius: 10px;
   }
 
